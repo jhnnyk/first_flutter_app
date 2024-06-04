@@ -4,8 +4,6 @@ import 'package:flutter/material.dart';
 const startAlignment = Alignment.topLeft;
 const endAlignment = Alignment.bottomRight;
 
-void rollDice() {}
-
 class GradientContainer extends StatelessWidget {
   const GradientContainer(this.startColor, this.endColor, {super.key});
 
